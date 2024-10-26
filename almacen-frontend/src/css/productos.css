@@ -1,0 +1,20 @@
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding-right: 20px;
+  }
+.productos {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  overflow-y: scroll;
+  max-height: 80vh;
+}
+.busqueda {
+  width:100%;
+  display: flex;
+  justify-content: center;
+}

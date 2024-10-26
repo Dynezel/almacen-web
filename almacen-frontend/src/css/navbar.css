@@ -1,0 +1,8 @@
+nav {
+    align-items: center;
+    margin-left: 42%;
+}
+.links > * {
+    text-align: center;
+    margin-right: 5%;
+}
